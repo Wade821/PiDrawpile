@@ -1,5 +1,5 @@
 #!/bin/bash
-drawpilescriptversion=2.95
+drawpilescriptversion=2.96
 scriptname=drawpile-installer-update
 scriptmgmtupdate=drawpile-installer-official-build-from-sources-server-mgmt-for-update
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
